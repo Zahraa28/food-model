@@ -29,6 +29,5 @@ Finally 5/5 projects 🥳🥳🎉
 ## 📦 Dataset
 
 - [Food-101 Dataset](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
-- Optionally: [UECFOOD-256](https://github.com/food-dev/food-256) for calorie-labeled samples
 
 ---
