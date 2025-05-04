@@ -28,6 +28,6 @@ Finally 5/5 projects 🥳🥳🎉
 
 ## 📦 Dataset
 
-- [Food-101 Dataset](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
+- [Food-101 Dataset](/kaggle/input/food-101)
 
 ---
